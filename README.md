@@ -115,18 +115,6 @@ The dashboard visualizes **party-wise performance, state-wise turnout, candidate
 
 ---
 
-## 📂 Project Structure
-
-📁 Indian_Election_Dashboard/
-│
-├── 📄 Indian_Election_Dashboard.xlsx # Final Excel Dashboard
-├── 📄 Raw_Dataset.csv # Raw Election Data
-├── 📄 Cleaned_Dataset.csv # Processed Data (via Power Query)
-├── 📁 Screenshots/ # Dashboard Visuals
-└── 📄 README.md # Project Documentation
-
----
-
 ## 🚀 Future Scope
 
 - Compare **2024 vs 2019** results for seat swing analysis  
